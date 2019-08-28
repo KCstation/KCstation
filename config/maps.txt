@@ -38,3 +38,7 @@ endmap
 
 map multiz_debug
 endmap
+
+map KCStation
+	maxplayers 15
+endmap
