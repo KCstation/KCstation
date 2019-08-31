@@ -1,32 +1,31 @@
 "a" = (/turf/closed/wall/mineral/titanium,/area/shuttle/supply)
 "b" = (/turf/open/floor/mineral/titanium/blue,/area/shuttle/supply)
 "c" = (/obj/machinery/light{dir = 1},/turf/open/floor/mineral/titanium/blue,/area/shuttle/supply)
-"d" = (/obj/machinery/conveyor{dir = 4; id = "QMLoad2"},/obj/machinery/door/poddoor{id = "QMLoaddoor2 west"; name = "supply dock loading door"},/turf/open/floor/plating,/area/shuttle/supply)
-"e" = (/obj/machinery/door/airlock/titanium{name = "Supply Shuttle Airlock"; req_access_txt = "31"},/turf/open/floor/plating,/area/shuttle/supply)
-"f" = (/obj/machinery/conveyor{dir = 4; id = "QMLoad2"},/obj/machinery/door/poddoor{id = "QMLoaddoor2 east"; name = "supply dock loading door"},/turf/open/floor/plating,/area/shuttle/supply)
-"g" = (/obj/machinery/light{dir = 8},/obj/machinery/button/door{id = "QMLoaddoor west"; name = "Loading Doors"; pixel_x = -24; pixel_y = -8},/obj/machinery/button/door{dir = 2; id = "QMLoaddoor2 west"; name = "Loading Doors"; pixel_x = -24; pixel_y = 8},/turf/open/floor/mineral/titanium/blue,/area/shuttle/supply)
-"h" = (/obj/machinery/door/airlock/titanium{name = "Supply Shuttle Airlock"; req_access_txt = "31"},/obj/docking_port/mobile/supply,/turf/open/floor/plating,/area/shuttle/supply)
-"i" = (/obj/machinery/button/door{dir = 2; id = "QMLoaddoor2 east"; name = "Loading Doors"; pixel_x = 24; pixel_y = 8},/obj/machinery/button/door{id = "QMLoaddoor east"; name = "Loading Doors"; pixel_x = 24; pixel_y = -8},/obj/machinery/light{dir = 4},/turf/open/floor/mineral/titanium/blue,/area/shuttle/supply)
-"j" = (/turf/closed/wall/mineral/titanium/interior,/area/shuttle/supply)
-"k" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/shuttle/engine/heater,/turf/open/floor/plating/airless,/area/shuttle/supply)
-"l" = (/turf/template_noop,/area/template_noop)
-"m" = (/obj/structure/shuttle/engine/propulsion/burst/left,/turf/open/floor/plating/airless,/area/shuttle/supply)
-"n" = (/obj/structure/shuttle/engine/propulsion,/turf/open/floor/plating/airless,/area/shuttle/supply)
-"o" = (/obj/structure/shuttle/engine/propulsion/burst/right,/turf/open/floor/plating/airless,/area/shuttle/supply)
-"p" = (/obj/machinery/conveyor{dir = 8; id = "QMLoad"},/obj/machinery/door/poddoor{id = "QMLoaddoor west"; name = "supply dock loading door"},/turf/open/floor/plating,/area/shuttle/supply)
-"q" = (/obj/machinery/conveyor{dir = 8; id = "QMLoad"},/obj/machinery/door/poddoor{id = "QMLoaddoor east"; name = "supply dock loading door"},/turf/open/floor/plating,/area/shuttle/supply)
+"d" = (,/area/shuttle/supply)
+"e" = (/obj/machinery/conveyor{dir = 4; id = "QMLoad2"},,/turf/open/floor/plating,/area/shuttle/supply)
+"f" = (,/turf/open/floor/plating,/area/shuttle/supply)
+"g" = (/obj/machinery/light{dir = 8},/turf/open/floor/mineral/titanium/blue,/area/shuttle/supply)
+"h" = (,,/obj/machinery/light{dir = 4},/turf/open/floor/mineral/titanium/blue,/area/shuttle/supply)
+"i" = (,,/turf/open/floor/plating,/area/shuttle/supply)
+"j" = (/obj/machinery/conveyor{dir = 8; id = "QMLoad"},,/turf/open/floor/plating,/area/shuttle/supply)
+"k" = (/turf/closed/wall/mineral/titanium/interior,/area/shuttle/supply)
+"l" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/shuttle/engine/heater,/turf/open/floor/plating/airless,/area/shuttle/supply)
+"m" = (/turf/template_noop,/area/template_noop)
+"n" = (/obj/structure/shuttle/engine/propulsion/burst/left,/turf/open/floor/plating/airless,/area/shuttle/supply)
+"o" = (/obj/structure/shuttle/engine/propulsion,/turf/open/floor/plating/airless,/area/shuttle/supply)
+"p" = (/obj/structure/shuttle/engine/propulsion/burst/right,/turf/open/floor/plating/airless,/area/shuttle/supply)
 
 (1,1,1) = {"
 aaaaaaa
 abbcbba
 abbbbba
-dbbbbbf
-ebbbbbe
-agbbbia
-ebbbbbh
-pbbbbbq
+abdddbe
+abdddbf
+agdddha
+abdddbi
+abdddbj
 abbbbba
-ajbbbja
-aakkkaa
-lmnnnol
+akbbbka
+aalllaa
+mnooopm
 "}

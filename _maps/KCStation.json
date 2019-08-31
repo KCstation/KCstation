@@ -3,7 +3,7 @@
     "map_path": "map_files/KCStation",
     "map_file": "KCStation.dmm",
     "shuttles": {
-	    "cargo": "cargo_kc",
+	    "cargo": "cargo_box",
 	    "ferry": "ferry_fancy",
 	    "whiteship": "whiteship_box",
 	    "emergency": "emergency_box"
