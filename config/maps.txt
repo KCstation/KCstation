@@ -42,3 +42,7 @@ endmap
 map KCStation
 	maxplayers 15
 endmap
+
+map KCSmol
+	maxplayers 5
+endmap

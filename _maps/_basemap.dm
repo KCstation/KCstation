@@ -12,6 +12,7 @@
 		#include "map_files\BoxStation\BoxStation.dmm"
 		#include "map_files\Donutstation\Donutstation.dmm"
 		#include "map_files\KCStation\KCStation.dmm"
+		#include "map_files\KCSmol\KCSmol.dmm"
 
 		#ifdef TRAVISBUILDING
 			#include "templates.dm"
